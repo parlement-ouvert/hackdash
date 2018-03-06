@@ -6,6 +6,8 @@ Organize hackaton ideas into a dashboard
 
 ![HackDash Logo](http://i.imgur.com/XLQGF3y.png)
 
+This project is a fork of HackDash for the site https://hackathon.parlement-ouvert.fr/.
+
 Install
 ===========
 
