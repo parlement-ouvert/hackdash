@@ -138,7 +138,7 @@ module.exports = function(grunt) {
     express: {
       test: {
         options: {
-          script: '../server.js',
+          script: '../index.js',
           node_env: 'test',
           port: 3000
         }
